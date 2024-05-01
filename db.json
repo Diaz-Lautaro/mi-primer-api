@@ -1,0 +1,16 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Camisa blanca",
+            "precio": 14.99,
+            "disponible": true
+        },
+        {
+            "id": 2,
+            "nombre": "Camisa negra",
+            "precio": 17.99,
+            "disponible": false
+        }
+    ]
+}
